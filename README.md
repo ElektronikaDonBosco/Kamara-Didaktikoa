@@ -1,6 +1,10 @@
 # Kamara-Didaktikoa
 
-XXXXXXXXXXXXXXXXX   Argazkia Eskemota XXXXXXXXXXXXXXXXX 
+
+
+ESKEMA OROKORRA
+
+![Kam Did  Eskema Orokorra](https://user-images.githubusercontent.com/123642231/218746013-7755d9c1-1772-4d88-9fa1-78054ea7c9c3.jpg)
 
 
 RGB FOTODIODOAK
@@ -33,9 +37,6 @@ Irakurketak 0 eta 1023 balioen artean transduzituko dira
 
 
 ZENER IMPLEMENTAZIOA   
-
-
-![Kam Did  Eskema Orokorra](https://user-images.githubusercontent.com/123642231/218746013-7755d9c1-1772-4d88-9fa1-78054ea7c9c3.jpg)
 
 
 
