@@ -10,7 +10,7 @@ ESKEMA OROKORRA
 
 RGB FOTODIODOAK
 
-![Captura de pantalla 2023-02-16 125057](https://user-images.githubusercontent.com/123642231/219357601-f72d3c54-8ade-4725-abcb-7115994811ee.png)
+
 
 Transdukzioa : argi/fotoi kopurua → energia elektrikoan  bilakatzea
 Fotodiodoak , jasotako argi kopuruarekiko bere erresistentzia balioak aldagarria
@@ -21,7 +21,7 @@ Fotoiak +++           Erresitentzia +++
 
 TENTSIO ZATITZAILEA
 
-![Captura de pantalla 2023-02-16 125500](https://user-images.githubusercontent.com/123642231/219358451-d6a80b4f-95b9-4b6c-9f59-ef619cb39aef.png)
+
 
 Tentsio Zatitzailea osatu beharra izan dugu diodo eta erresistentziekin 
 1,9V - 3,3V tartean doitzeko irteerako tentsioa 
@@ -33,7 +33,7 @@ Fotodiodoaren balioa R ++ → Irteerako V --
 
 IRAKURKETA ANALOGIKOA
 
-![Captura de pantalla 2023-02-16 124756](https://user-images.githubusercontent.com/123642231/219357138-f9db6c1f-6b00-42b7-8dbd-8ddfa8083848.png)
+
 
 Sarrera analogikoak tentsioa irakurtzeko erabiliak
 Teensy 4.0 rako 3,3V ko muga sarrera analogikoetan
@@ -45,7 +45,7 @@ Irakurketak 0 eta 1023 balioen artean transduzituko dira
 
 ZENER IMPLEMENTAZIOA   
 
-![Captura de pantalla 2023-02-16 125249](https://user-images.githubusercontent.com/123642231/219358002-af632ce6-f0d6-4e23-950e-0fdfb508f1ea.png)
+
 
 Tentsio Zatitzailearen irteerako V mugatu eta kontrolatzeko :
 Zener diodo bat hautatu dugu
@@ -65,7 +65,7 @@ Horren ondorioz erresistentzia totala jaisten da
 
 IMPEDENTZIA AKOPLATZAILEA
 
-![Captura de pantalla 2023-02-16 123525](https://user-images.githubusercontent.com/123642231/219354371-7d6e1985-1456-44be-9a48-ba7ecf306e97.png)
+
 
 Iturri gisa inpedantzia doitzen duen zirkuitu bat 
 eraman behar du. Kasu horretan, anplifikadore
@@ -77,7 +77,7 @@ berrelikadurarekin eta irabazi unitarioarekin.
 
 KONTROL ETAPA
 
-![Proyecto nuevo](https://user-images.githubusercontent.com/123642231/219346934-aaf1b304-5f69-492b-8dd6-f27b6484ab66.jpg)
+
 
 Analog Devices markako Multipexoreak hautatu ditugu : ADG732
 Teensy 4.0 a hautatua ,600MHz prozesamendu duelako
@@ -92,7 +92,7 @@ Eta beste azken bat ADRESS funtzioa beteko lukeena 4COMmultiplexor .
 
 
 SPI KOMUNIKAZIOA
-![Captura de pantalla 2023-02-16 122921](https://user-images.githubusercontent.com/123642231/219353265-3b7b1993-2d48-4509-b1df-82817aa2cca4.png)
+
 
 Airezko komunikazio sistema hautatu dugu
 Hortarako NRF24L01 komunikazio modulua hautatu dugu
