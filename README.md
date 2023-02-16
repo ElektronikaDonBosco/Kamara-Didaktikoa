@@ -1,5 +1,6 @@
 # Kamara-Didaktikoa
 
+![1676547753684 (1)](https://user-images.githubusercontent.com/123642231/219358579-3597a257-894b-42f9-99d8-ac4e3c323b59.jpg)
 
 
 ESKEMA OROKORRA
@@ -8,6 +9,8 @@ ESKEMA OROKORRA
 
 
 RGB FOTODIODOAK
+
+![Captura de pantalla 2023-02-16 125057](https://user-images.githubusercontent.com/123642231/219357601-f72d3c54-8ade-4725-abcb-7115994811ee.png)
 
 Transdukzioa : argi/fotoi kopurua → energia elektrikoan  bilakatzea
 Fotodiodoak , jasotako argi kopuruarekiko bere erresistentzia balioak aldagarria
@@ -18,7 +21,7 @@ Fotoiak +++           Erresitentzia +++
 
 TENTSIO ZATITZAILEA
 
-
+![Captura de pantalla 2023-02-16 125500](https://user-images.githubusercontent.com/123642231/219358451-d6a80b4f-95b9-4b6c-9f59-ef619cb39aef.png)
 
 Tentsio Zatitzailea osatu beharra izan dugu diodo eta erresistentziekin 
 1,9V - 3,3V tartean doitzeko irteerako tentsioa 
@@ -30,6 +33,8 @@ Fotodiodoaren balioa R ++ → Irteerako V --
 
 IRAKURKETA ANALOGIKOA
 
+![Captura de pantalla 2023-02-16 124756](https://user-images.githubusercontent.com/123642231/219357138-f9db6c1f-6b00-42b7-8dbd-8ddfa8083848.png)
+
 Sarrera analogikoak tentsioa irakurtzeko erabiliak
 Teensy 4.0 rako 3,3V ko muga sarrera analogikoetan
 0V eta 3,3Veko tentsiok irakurriko ditugu 14-…-23 pinetan
@@ -40,7 +45,7 @@ Irakurketak 0 eta 1023 balioen artean transduzituko dira
 
 ZENER IMPLEMENTAZIOA   
 
-
+![Captura de pantalla 2023-02-16 125249](https://user-images.githubusercontent.com/123642231/219358002-af632ce6-f0d6-4e23-950e-0fdfb508f1ea.png)
 
 Tentsio Zatitzailearen irteerako V mugatu eta kontrolatzeko :
 Zener diodo bat hautatu dugu
@@ -53,7 +58,6 @@ KORRONTE DESBIDERATZEA
 
 Arduinoaren sarrera analogikoak erresistentzia bat
 dute eta orduan corrontea desbiratzen da.
-
 Horren ondorioz erresistentzia totala jaisten da
 
 
